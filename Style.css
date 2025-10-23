@@ -1,0 +1,18 @@
+body{
+background-color:blue ;
+color:brown
+font-family:black;
+margin:opx;
+h1 {
+    color:beige;
+    font-size:40px;
+}
+p{
+    font-size:25px;
+}
+header{
+    border-bottom:chocolate;
+    margin: 2px;
+    padding: 10px;
+    color:blueviolet
+}
