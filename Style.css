@@ -15,4 +15,18 @@ header{
     margin: 2px;
     padding: 10px;
     color:blueviolet;
+
+}
+.chámada{ 
+    background: (chocolate);
+    padding: 80 xp;
+    display: flex;
+    justify-content: center;
+
+}
+.chámada-texto{
+    margin-right: 8%;
+}
+img{ 
+    height: 200 xp;
 }
